@@ -1,0 +1,17 @@
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\RateLimiterConsole.exe
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\RateLimiterConsole.deps.json
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\RateLimiterConsole.runtimeconfig.json
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\RateLimiterConsole.dll
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\RateLimiterConsole.pdb
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.csproj.AssemblyReference.cache
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.AssemblyInfoInputs.cache
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.AssemblyInfo.cs
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.csproj.CoreCompileInputs.cache
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.csproj.CopyComplete
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.dll
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\refint\RateLimiterConsole.dll
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.pdb
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\RateLimiterConsole.genruntimeconfig.cache
+C:\MG\Sunumlar\RateLimiter\RateLimiter\RateLimiterConsole\obj\Debug\net7.0\ref\RateLimiterConsole.dll

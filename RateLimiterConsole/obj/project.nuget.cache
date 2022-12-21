@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtIrp11dii8lksDqf/qYRVFY37pAU2L/3j339xPiJLz7BNR8kMRe79vY/fB+uyhisBMomhC8ojrdF9dVYkt/bA==",
+  "success": true,
+  "projectFilePath": "C:\\MG\\Sunumlar\\RateLimiter\\RateLimiter\\RateLimiterConsole\\RateLimiterConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgirit\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.dsans.int/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
